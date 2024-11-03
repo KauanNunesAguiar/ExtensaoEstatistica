@@ -1,0 +1,857 @@
+,Sexo,Idade,Altura,Peso,Cor dos Olhos,Cor do Cabelo,Causa Morte,Local,Raça,Classe Social,Serial Killer
+19982,Feminino,43,1.77,57,Castanho,Preto,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+46464,Masculino,34,1.72,47,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Desconhecido
+90672,Masculino,39,1.6,59,Castanho,Preto,Envenenamento,Casa,Branca,Classe Média,Coringon de le pinheirinho Silva
+5056,Feminino,26,1.7,79,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+52219,Feminino,27,1.81,77,Verde,Loiro,Estrangulamento,Rua,Branca,Classe Alta,Roberto Chimarildo Tomáz
+59264,Feminino,51,1.73,60,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+51478,Feminino,43,1.63,63,Azul,Preto,Estrangulamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+72600,Feminino,21,1.54,49,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+2204,Feminino,45,1.66,63,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+38334,Feminino,24,1.73,80,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+37856,Feminino,28,1.4,83,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+9531,Masculino,19,1.5,39,Azul,Preto,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+60813,Masculino,47,1.61,64,Castanho,Ruivo,Envenenamento,Trabalho,Parda,Classe Média,Desconhecido
+96502,Feminino,15,1.46,77,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+48589,Feminino,37,1.72,63,Verde,Preto,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+34079,Feminino,41,1.81,59,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+83027,Feminino,23,1.75,54,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+15233,Feminino,29,1.76,53,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+38372,Feminino,12,1.85,81,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+77854,Masculino,17,1.53,43,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+3219,Feminino,25,1.75,78,Castanho,Ruivo,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+64128,Feminino,40,1.64,47,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+91834,Feminino,26,1.85,63,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+53348,Feminino,18,1.78,78,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+12062,Feminino,32,1.76,83,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+98148,Feminino,27,1.82,78,Verde,Loiro,Estrangulamento,Trabalho,Branca,Classe Alta,Roberto Chimarildo Tomáz
+93556,Feminino,14,1.47,37,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+80048,Masculino,15,1.47,38,Castanho,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+97127,Feminino,59,1.52,53,Castanho,Ruivo,Esfaqueamento,Rua,Negra,Classe Alta,Desconhecido
+87405,Masculino,38,1.47,63,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+48187,Masculino,43,1.66,67,Verde,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+49883,Feminino,26,1.79,49,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+74537,Feminino,42,1.61,71,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+39257,Feminino,38,1.64,58,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+98774,Feminino,21,1.68,37,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+18623,Feminino,21,1.58,66,Azul,Ruivo,Esfaqueamento,Trabalho,Parda,Classe Baixa,Desconhecido
+8745,Masculino,13,1.5,38,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+29075,Feminino,54,1.85,77,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+30918,Feminino,15,1.85,78,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+48003,Feminino,19,1.77,83,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+6799,Feminino,16,1.44,43,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+28447,Feminino,16,1.53,90,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+82094,Masculino,16,1.5,37,Azul,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+47591,Feminino,28,1.89,83,Castanho,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+24374,Feminino,19,1.79,78,Castanho,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+18658,Feminino,23,1.86,85,Azul,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+88106,Feminino,37,1.83,62,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+18314,Feminino,12,1.71,48,Azul,Ruivo,Estrangulamento,Rua,Parda,Classe Média,Desconhecido
+92620,Feminino,19,1.51,43,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+71530,Feminino,23,1.79,54,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+17629,Feminino,21,1.54,41,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+58779,Feminino,58,1.57,35,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Desconhecido
+36166,Feminino,23,1.82,51,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+77464,Feminino,58,1.76,84,Azul,Ruivo,Estrangulamento,Trabalho,Branca,Classe Média,Desconhecido
+66117,Feminino,25,1.82,79,Castanho,Preto,Estrangulamento,Casa,Branca,Classe Baixa,Roberto Chimarildo Tomáz
+89765,Feminino,23,1.83,77,Verde,Loiro,Envenenamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+51278,Feminino,24,1.82,40,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+57858,Feminino,42,1.64,36,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+45424,Feminino,18,1.49,47,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+97090,Feminino,15,1.56,37,Verde,Loiro,Envenenamento,Rua,Branca,Classe Alta,Desconhecido
+20260,Feminino,27,1.78,61,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+71045,Feminino,30,1.86,83,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+56499,Feminino,23,1.84,31,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+61764,Masculino,53,1.68,89,Azul,Loiro,Estrangulamento,Rua,Parda,Classe Alta,Desconhecido
+75923,Feminino,26,1.81,53,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+51478,Feminino,43,1.63,63,Azul,Preto,Estrangulamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+73750,Masculino,20,1.5,34,Verde,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+17063,Feminino,27,1.85,35,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+6094,Feminino,18,1.45,74,Verde,Loiro,Envenenamento,Casa,Negra,Classe Alta,Desconhecido
+1779,Masculino,18,1.52,77,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+17632,Masculino,27,1.85,80,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+67310,Feminino,38,1.78,80,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+21012,Masculino,60,1.5,74,Verde,Ruivo,Envenenamento,Rua,Parda,Classe Alta,Desconhecido
+76874,Masculino,22,1.58,38,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+81267,Feminino,19,1.47,46,Azul,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+90567,Masculino,23,1.9,34,Verde,Loiro,Esfaqueamento,Rua,Parda,Classe Média,Desconhecido
+11373,Feminino,41,1.48,69,Castanho,Ruivo,Esfaqueamento,Casa,Branca,Classe Média,Desconhecido
+43331,Masculino,18,1.56,43,Verde,Loiro,Envenenamento,Rua,Branca,Classe Média,ElBigodon Camacho
+80803,Masculino,23,1.67,65,Castanho,Loiro,Envenenamento,Casa,Negra,Classe Alta,Desconhecido
+81875,Feminino,24,1.85,76,Azul,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+38372,Feminino,12,1.85,81,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+17063,Feminino,27,1.85,35,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+82515,Feminino,15,1.56,37,Azul,Loiro,Contusão,Rua,Branca,Classe Média,ElBigodon Camacho
+88533,Masculino,43,1.74,63,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+37269,Feminino,43,1.48,62,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+19982,Feminino,43,1.77,57,Castanho,Preto,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+56745,Feminino,23,1.85,78,Castanho,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+9876,Feminino,29,1.82,61,Verde,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+33518,Feminino,47,1.62,67,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+23527,Feminino,22,1.77,80,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+62711,Masculino,38,1.62,59,Castanho,Preto,Envenenamento,Casa,Branca,Classe Média,Coringon de le pinheirinho Silva
+92215,Feminino,16,1.82,79,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+76350,Feminino,24,1.46,43,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+76552,Feminino,23,1.88,79,Castanho,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+60847,Feminino,18,1.47,41,Verde,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+66110,Feminino,42,1.66,32,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+87405,Masculino,38,1.47,63,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+59060,Feminino,46,1.54,41,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+47113,Feminino,14,1.78,78,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+53044,Masculino,43,1.62,40,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+90284,Feminino,26,1.48,32,Castanho,Loiro,Estrangulamento,Rua,Branca,Classe Média,Desconhecido
+87926,Feminino,39,1.68,60,Azul,Loiro,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+82570,Feminino,31,1.85,79,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+1779,Masculino,18,1.52,77,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+57070,Feminino,13,1.74,80,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+54826,Feminino,21,1.46,41,Azul,Loiro,Envenenamento,Rua,Branca,Classe Média,ElBigodon Camacho
+55274,Feminino,29,1.63,61,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+847,Feminino,27,1.75,78,Azul,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+39191,Masculino,18,1.54,37,Azul,Preto,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+24410,Masculino,35,1.64,61,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+64561,Masculino,37,1.53,37,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+75568,Masculino,51,1.82,62,Verde,Preto,Estrangulamento,Casa,Parda,Classe Baixa,Desconhecido
+91834,Feminino,26,1.85,63,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+58057,Feminino,26,1.71,83,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+73695,Masculino,26,1.83,83,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+57858,Feminino,42,1.64,36,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+54675,Feminino,26,1.72,76,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+14718,Feminino,26,1.84,79,Verde,Ruivo,Esfaqueamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+99125,Masculino,16,1.82,38,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+79610,Masculino,39,1.72,36,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+23689,Feminino,24,1.74,39,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+10693,Masculino,16,1.52,41,Verde,Ruivo,Esfaqueamento,Rua,Branca,Classe Baixa,ElBigodon Camacho
+84528,Feminino,27,1.81,78,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Baixa,Roberto Chimarildo Tomáz
+35764,Masculino,10,1.48,39,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+60578,Feminino,29,1.83,52,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+84846,Feminino,27,1.74,67,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+19822,Masculino,18,1.46,45,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+79181,Feminino,19,1.85,78,Azul,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+23241,Feminino,25,1.81,81,Castanho,Preto,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+66,Feminino,30,1.86,79,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+38109,Masculino,21,1.7,40,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+79089,Feminino,26,1.54,79,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+15237,Feminino,27,1.81,80,Verde,Loiro,Esfaqueamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+52518,Feminino,28,1.83,78,Castanho,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+32738,Feminino,26,1.82,80,Verde,Preto,Envenenamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+44899,Masculino,22,1.45,35,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Desconhecido
+21086,Masculino,16,1.51,63,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+82641,Feminino,19,1.57,37,Azul,Ruivo,Contusão,Rua,Branca,Classe Média,ElBigodon Camacho
+961,Feminino,29,1.82,78,Castanho,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+92661,Masculino,38,1.73,53,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+18961,Feminino,30,1.66,60,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+40905,Feminino,38,1.69,59,Azul,Preto,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+49988,Masculino,23,1.74,60,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+48093,Masculino,18,1.47,42,Verde,Loiro,Estrangulamento,Rua,Branca,Classe Média,ElBigodon Camacho
+88219,Feminino,19,1.5,42,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+92343,Feminino,25,1.77,64,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+6780,Masculino,26,1.87,65,Azul,Ruivo,Esfaqueamento,Casa,Branca,Classe Média,Desconhecido
+94389,Feminino,24,1.67,78,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+52518,Feminino,28,1.83,78,Castanho,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+98726,Feminino,23,1.81,67,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+43303,Feminino,32,1.8,80,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+41994,Feminino,19,1.57,39,Azul,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+49461,Feminino,29,1.76,83,Castanho,Loiro,Estrangulamento,Casa,Parda,Classe Média,Roberto Chimarildo Tomáz
+51378,Feminino,36,1.78,81,Verde,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+46074,Masculino,15,1.56,45,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+27254,Masculino,11,1.43,54,Azul,Preto,Estrangulamento,Trabalho,Parda,Classe Alta,Desconhecido
+38280,Masculino,47,1.65,62,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+10167,Feminino,37,1.72,61,Verde,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+23720,Masculino,17,1.42,41,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+81875,Feminino,24,1.85,76,Azul,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+64762,Feminino,25,1.75,55,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+8745,Masculino,13,1.5,38,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+92343,Feminino,25,1.77,64,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+56745,Feminino,23,1.85,78,Castanho,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+7170,Feminino,14,1.58,38,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+45499,Feminino,48,1.73,62,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+52735,Feminino,20,1.49,41,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+23395,Feminino,20,1.75,83,Azul,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+27184,Feminino,37,1.54,63,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+15007,Feminino,55,1.82,82,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+85962,Masculino,18,1.48,40,Castanho,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+19512,Masculino,46,1.65,57,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+72108,Masculino,37,1.7,62,Verde,Preto,Estrangulamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+53451,Masculino,40,1.63,60,Azul,Preto,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+94983,Feminino,29,1.74,53,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+66117,Feminino,25,1.82,79,Castanho,Preto,Estrangulamento,Casa,Branca,Classe Baixa,Roberto Chimarildo Tomáz
+42014,Feminino,26,1.41,79,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+48038,Masculino,30,1.68,74,Castanho,Loiro,Envenenamento,Trabalho,Negra,Classe Média,Desconhecido
+96707,Feminino,23,1.74,87,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+64561,Masculino,37,1.53,37,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+24263,Masculino,44,1.64,61,Castanho,Preto,Envenenamento,Casa,Parda,Classe Baixa,Coringon de le pinheirinho Silva
+10167,Feminino,37,1.72,61,Verde,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+53348,Feminino,18,1.78,78,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+41409,Feminino,29,1.85,78,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Baixa,Roberto Chimarildo Tomáz
+58243,Masculino,19,1.51,83,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+17905,Feminino,17,1.85,78,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+81445,Masculino,35,1.65,63,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+30108,Feminino,29,1.78,38,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+48059,Masculino,18,1.54,41,Azul,Preto,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+30108,Feminino,29,1.78,38,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+29589,Feminino,18,1.53,45,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+48573,Feminino,23,1.89,78,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+27533,Feminino,39,1.56,39,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+84846,Feminino,27,1.74,67,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+83027,Feminino,23,1.75,54,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+14176,Feminino,30,1.81,80,Castanho,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+23395,Feminino,20,1.75,83,Azul,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+41215,Feminino,42,1.73,30,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+89597,Feminino,53,1.76,49,Verde,Loiro,Estrangulamento,Trabalho,Branca,Classe Alta,Desconhecido
+60847,Feminino,18,1.47,41,Verde,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+45327,Masculino,39,1.7,52,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+37702,Feminino,28,1.81,81,Castanho,Ruivo,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+17244,Feminino,20,1.57,55,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+73750,Masculino,20,1.5,34,Verde,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+22133,Feminino,27,1.86,86,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+17244,Feminino,20,1.57,55,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+7291,Masculino,45,1.62,63,Castanho,Preto,Envenenamento,Casa,Parda,Classe Baixa,Coringon de le pinheirinho Silva
+78756,Feminino,33,1.69,59,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+64165,Masculino,37,1.71,32,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+79610,Masculino,39,1.72,36,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+59091,Masculino,41,1.69,60,Castanho,Loiro,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+41992,Feminino,24,1.77,82,Castanho,Loiro,Estrangulamento,Casa,Branca,Classe Baixa,Roberto Chimarildo Tomáz
+49468,Masculino,24,1.56,42,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+80927,Masculino,42,1.63,54,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+54939,Feminino,60,1.72,68,Verde,Preto,Envenenamento,Rua,Parda,Classe Baixa,Desconhecido
+14119,Masculino,19,1.54,47,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+98141,Masculino,43,1.74,60,Castanho,Preto,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+34145,Feminino,26,1.83,52,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+90675,Feminino,28,1.84,53,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+70384,Masculino,21,1.5,43,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+6245,Feminino,15,1.45,41,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+42063,Feminino,14,1.44,40,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+46416,Feminino,26,1.72,77,Azul,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+21086,Masculino,16,1.51,63,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+70510,Feminino,29,1.61,62,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+35138,Feminino,13,1.85,80,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+18529,Feminino,20,1.51,35,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+23689,Feminino,24,1.74,39,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+40168,Feminino,19,1.63,65,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Baixa,Desconhecido
+17795,Feminino,43,1.66,63,Castanho,Loiro,Envenenamento,Casa,Branca,Classe Média,Coringon de le pinheirinho Silva
+95166,Masculino,18,1.67,69,Azul,Loiro,Esfaqueamento,Trabalho,Parda,Classe Média,Desconhecido
+32246,Masculino,54,1.53,40,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+14176,Feminino,30,1.81,80,Castanho,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+86297,Feminino,21,1.51,39,Azul,Loiro,Estrangulamento,Rua,Branca,Classe Média,ElBigodon Camacho
+16571,Masculino,15,1.51,56,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+82570,Feminino,31,1.85,79,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+37427,Masculino,19,1.67,39,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+47692,Masculino,43,1.72,79,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+37702,Feminino,28,1.81,81,Castanho,Ruivo,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+24410,Masculino,35,1.64,61,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+17900,Masculino,12,1.67,63,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+36323,Feminino,13,1.67,57,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+32246,Masculino,54,1.53,40,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+61349,Feminino,48,1.79,81,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+28678,Masculino,28,1.66,70,Castanho,Ruivo,Envenenamento,Trabalho,Parda,Classe Baixa,Desconhecido
+28123,Feminino,23,1.81,49,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+61372,Feminino,32,1.76,82,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+689,Feminino,28,1.83,73,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+45513,Feminino,30,1.68,45,Castanho,Loiro,Contusão,Rua,Branca,Classe Média,Desconhecido
+87319,Masculino,35,1.72,63,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+93575,Feminino,41,1.66,48,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+24211,Feminino,46,1.59,61,Verde,Preto,Envenenamento,Trabalho,Negra,Classe Alta,Desconhecido
+52219,Feminino,27,1.81,77,Verde,Loiro,Estrangulamento,Rua,Branca,Classe Alta,Roberto Chimarildo Tomáz
+75300,Feminino,28,1.75,78,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Média,Roberto Chimarildo Tomáz
+8530,Masculino,40,1.84,57,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+71287,Feminino,58,1.86,81,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+27675,Masculino,20,1.61,41,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+70451,Feminino,43,1.53,42,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+35701,Feminino,18,1.53,30,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+49883,Feminino,26,1.79,49,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+58243,Masculino,19,1.51,83,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+89684,Feminino,13,1.8,77,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+9876,Feminino,29,1.82,61,Verde,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+97341,Feminino,26,1.87,62,Verde,Preto,Esfaqueamento,Casa,Negra,Classe Baixa,Desconhecido
+18571,Feminino,20,1.86,83,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Média,Roberto Chimarildo Tomáz
+8823,Masculino,37,1.73,59,Castanho,Preto,Esfaqueamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+92661,Masculino,38,1.73,53,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+55586,Feminino,28,1.81,81,Verde,Preto,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+65490,Feminino,29,1.77,90,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+35435,Masculino,17,1.74,37,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+77916,Feminino,24,1.79,80,Verde,Loiro,Estrangulamento,Rua,Negra,Classe Alta,Roberto Chimarildo Tomáz
+5730,Masculino,51,1.51,43,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+78013,Feminino,17,1.45,41,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Baixa,ElBigodon Camacho
+82515,Feminino,15,1.56,37,Azul,Loiro,Contusão,Rua,Branca,Classe Média,ElBigodon Camacho
+7311,Masculino,12,1.5,39,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+55207,Feminino,16,1.73,61,Verde,Ruivo,Esfaqueamento,Casa,Negra,Classe Baixa,Desconhecido
+35657,Feminino,27,1.78,71,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+76874,Masculino,22,1.58,38,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+39191,Masculino,18,1.54,37,Azul,Preto,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+69569,Feminino,17,1.6,43,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+64128,Feminino,40,1.64,47,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+1609,Feminino,42,1.83,77,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+18571,Feminino,20,1.86,83,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Média,Roberto Chimarildo Tomáz
+5909,Masculino,24,1.48,56,Castanho,Preto,Estrangulamento,Rua,Branca,Classe Média,Desconhecido
+20260,Feminino,27,1.78,61,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+7038,Feminino,23,1.75,79,Azul,Ruivo,Estrangulamento,Rua,Branca,Classe Alta,Roberto Chimarildo Tomáz
+64593,Feminino,17,1.77,37,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+46304,Feminino,40,1.58,62,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+43091,Feminino,28,1.76,78,Castanho,Ruivo,Estrangulamento,Rua,Parda,Classe Alta,Roberto Chimarildo Tomáz
+93556,Feminino,14,1.47,37,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+69053,Feminino,25,1.8,40,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+71950,Feminino,25,1.78,79,Verde,Preto,Envenenamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+28123,Feminino,23,1.81,49,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+87061,Feminino,23,1.59,77,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+63911,Masculino,46,1.63,57,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+37856,Feminino,28,1.4,83,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+68066,Masculino,54,1.42,74,Azul,Loiro,Envenenamento,Rua,Negra,Classe Alta,Desconhecido
+41992,Feminino,24,1.77,82,Castanho,Loiro,Estrangulamento,Casa,Branca,Classe Baixa,Roberto Chimarildo Tomáz
+76350,Feminino,24,1.46,43,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+41676,Feminino,28,1.83,87,Azul,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+38280,Masculino,47,1.65,62,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+8623,Feminino,33,1.79,33,Azul,Ruivo,Estrangulamento,Rua,Parda,Classe Baixa,Desconhecido
+43018,Masculino,48,1.47,43,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+1478,Masculino,19,1.46,41,Azul,Ruivo,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+7451,Feminino,24,1.79,79,Azul,Preto,Estrangulamento,Casa,Branca,Classe Média,Roberto Chimarildo Tomáz
+48923,Feminino,18,1.51,41,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+68868,Feminino,39,1.66,46,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+18089,Feminino,42,1.71,79,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+65030,Feminino,25,1.86,89,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+55586,Feminino,28,1.81,81,Verde,Preto,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+44884,Masculino,43,1.55,62,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+27675,Masculino,20,1.61,41,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+14718,Feminino,26,1.84,79,Verde,Ruivo,Esfaqueamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+30322,Masculino,23,1.81,79,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+34995,Feminino,12,1.54,41,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+49461,Feminino,29,1.76,83,Castanho,Loiro,Estrangulamento,Casa,Parda,Classe Média,Roberto Chimarildo Tomáz
+77882,Feminino,26,1.82,90,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+961,Feminino,29,1.82,78,Castanho,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+47159,Feminino,38,1.71,58,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+86362,Feminino,43,1.74,64,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+25504,Feminino,39,1.67,53,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+98726,Feminino,23,1.81,67,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+21348,Feminino,18,1.49,48,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+5730,Masculino,51,1.51,43,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+8823,Masculino,37,1.73,59,Castanho,Preto,Esfaqueamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+71045,Feminino,30,1.86,83,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+78013,Feminino,17,1.45,41,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Baixa,ElBigodon Camacho
+52907,Feminino,45,1.7,62,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+61230,Masculino,42,1.62,62,Azul,Loiro,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+32738,Feminino,26,1.82,80,Verde,Preto,Envenenamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+17629,Feminino,21,1.54,41,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+38252,Feminino,13,1.75,82,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+19348,Masculino,17,1.55,46,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+42052,Feminino,11,1.5,38,Azul,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+43091,Feminino,28,1.76,78,Castanho,Ruivo,Estrangulamento,Rua,Parda,Classe Alta,Roberto Chimarildo Tomáz
+2748,Feminino,29,1.84,81,Verde,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+42530,Feminino,40,1.77,64,Azul,Loiro,Estrangulamento,Casa,Branca,Classe Média,Desconhecido
+74039,Feminino,57,1.85,82,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+45424,Feminino,18,1.49,47,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+40979,Masculino,43,1.69,66,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+17748,Masculino,23,1.46,81,Azul,Loiro,Estrangulamento,Rua,Negra,Classe Alta,Desconhecido
+12971,Feminino,28,1.86,49,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+47478,Feminino,13,1.51,40,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+96427,Feminino,25,1.79,47,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+45532,Feminino,25,1.83,76,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Média,Roberto Chimarildo Tomáz
+71530,Feminino,23,1.79,54,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+61478,Feminino,56,1.87,48,Azul,Ruivo,Esfaqueamento,Casa,Parda,Classe Média,Desconhecido
+79891,Feminino,25,1.65,81,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+763,Masculino,54,1.5,62,Verde,Loiro,Contusão,Casa,Parda,Classe Média,Desconhecido
+95542,Feminino,18,1.52,41,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+24218,Feminino,35,1.78,78,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+88106,Feminino,37,1.83,62,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+33518,Feminino,47,1.62,67,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+2097,Feminino,37,1.74,61,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+57354,Feminino,23,1.81,80,Castanho,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+98141,Masculino,43,1.74,60,Castanho,Preto,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+7521,Feminino,40,1.7,58,Castanho,Ruivo,Envenenamento,Trabalho,Parda,Classe Média,Coringon de le pinheirinho Silva
+98789,Feminino,58,1.81,77,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+87095,Feminino,24,1.82,80,Castanho,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+46054,Masculino,21,1.61,37,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+64978,Feminino,37,1.66,59,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+86058,Masculino,39,1.71,31,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+73357,Feminino,26,1.73,56,Azul,Preto,Envenenamento,Trabalho,Negra,Classe Média,Desconhecido
+86362,Feminino,43,1.74,64,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+80190,Feminino,20,1.84,80,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+55274,Feminino,29,1.63,61,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+73695,Masculino,26,1.83,83,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+34131,Feminino,42,1.74,63,Castanho,Preto,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+77933,Feminino,20,1.75,37,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+22133,Feminino,27,1.86,86,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+7291,Masculino,45,1.62,63,Castanho,Preto,Envenenamento,Casa,Parda,Classe Baixa,Coringon de le pinheirinho Silva
+30322,Masculino,23,1.81,79,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+83272,Masculino,41,1.64,60,Castanho,Preto,Esfaqueamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+35312,Feminino,48,1.84,83,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+53044,Masculino,43,1.62,40,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+81580,Masculino,43,1.47,41,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+19512,Masculino,46,1.65,57,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+22284,Feminino,25,1.84,69,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+7311,Masculino,12,1.5,39,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+23512,Feminino,32,1.77,83,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+27533,Feminino,39,1.56,39,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+78849,Feminino,24,1.64,77,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+15237,Feminino,27,1.81,80,Verde,Loiro,Esfaqueamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+17632,Masculino,27,1.85,80,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+61372,Feminino,32,1.76,82,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+44020,Feminino,49,1.54,42,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+89893,Feminino,29,1.76,82,Verde,Preto,Estrangulamento,Rua,Negra,Classe Alta,Roberto Chimarildo Tomáz
+51213,Masculino,28,1.86,83,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+93119,Feminino,25,1.79,79,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+62711,Masculino,38,1.62,59,Castanho,Preto,Envenenamento,Casa,Branca,Classe Média,Coringon de le pinheirinho Silva
+96690,Feminino,29,1.82,57,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+23241,Feminino,25,1.81,81,Castanho,Preto,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+41647,Feminino,11,1.57,42,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+14599,Feminino,41,1.71,34,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+35657,Feminino,27,1.78,71,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+59060,Feminino,46,1.54,41,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+61760,Feminino,23,1.77,82,Verde,Loiro,Estrangulamento,Rua,Parda,Classe Alta,Roberto Chimarildo Tomáz
+18658,Feminino,23,1.86,85,Azul,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+90675,Feminino,28,1.84,53,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+56979,Masculino,19,1.55,55,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+47478,Feminino,13,1.51,40,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+79891,Feminino,25,1.65,81,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+42014,Feminino,26,1.41,79,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+92203,Masculino,15,1.48,45,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+69569,Feminino,17,1.6,43,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+71956,Feminino,20,1.56,36,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+69662,Feminino,26,1.75,79,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Média,Roberto Chimarildo Tomáz
+25085,Feminino,12,1.74,82,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+69079,Feminino,21,1.43,42,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+15381,Masculino,16,1.71,72,Castanho,Loiro,Esfaqueamento,Trabalho,Parda,Classe Alta,Desconhecido
+75814,Feminino,19,1.64,57,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+94983,Feminino,29,1.74,53,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+9242,Feminino,24,1.88,85,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+46074,Masculino,15,1.56,45,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+59766,Feminino,38,1.62,58,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+42052,Feminino,11,1.5,38,Azul,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+47692,Masculino,43,1.72,79,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+78756,Feminino,33,1.69,59,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+81415,Masculino,38,1.69,60,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+93396,Masculino,27,1.84,80,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+29,Masculino,41,1.71,54,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+77933,Feminino,20,1.75,37,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+49468,Masculino,24,1.56,42,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+19348,Masculino,17,1.55,46,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+98481,Masculino,20,1.51,65,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+55580,Masculino,49,1.54,87,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Alta,Desconhecido
+64165,Masculino,37,1.71,32,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+40979,Masculino,43,1.69,66,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+43666,Feminino,42,1.61,60,Castanho,Loiro,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+847,Feminino,27,1.75,78,Azul,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+20886,Masculino,43,1.74,87,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+909,Masculino,41,1.77,61,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+69222,Feminino,26,1.48,90,Verde,Loiro,Esfaqueamento,Casa,Negra,Classe Alta,Desconhecido
+22858,Feminino,28,1.8,82,Verde,Preto,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+60229,Feminino,15,1.48,72,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+70435,Feminino,25,1.82,48,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+51352,Feminino,57,1.75,80,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+84793,Masculino,15,1.52,39,Azul,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+54550,Feminino,40,1.74,63,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+58025,Feminino,49,1.76,80,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+23049,Masculino,46,1.71,60,Verde,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+54826,Feminino,21,1.46,41,Azul,Loiro,Envenenamento,Rua,Branca,Classe Média,ElBigodon Camacho
+47523,Feminino,18,1.69,58,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+61349,Feminino,48,1.79,81,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+33234,Feminino,29,1.82,89,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+82061,Masculino,23,1.69,59,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+75786,Masculino,52,1.84,77,Verde,Preto,Esfaqueamento,Casa,Branca,Classe Média,Desconhecido
+2097,Feminino,37,1.74,61,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+37311,Feminino,29,1.79,81,Castanho,Ruivo,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+36987,Feminino,48,1.62,63,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+93115,Masculino,21,1.56,45,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+84054,Feminino,27,1.74,62,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+73497,Feminino,42,1.73,60,Castanho,Preto,Estrangulamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+40705,Feminino,19,1.58,49,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+80927,Masculino,42,1.63,54,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+80705,Masculino,30,1.52,43,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+33634,Feminino,28,1.77,59,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+36323,Feminino,13,1.67,57,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+88237,Feminino,19,1.76,78,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+34145,Feminino,26,1.83,52,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+54526,Masculino,15,1.53,42,Azul,Preto,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+58057,Feminino,26,1.71,83,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+63436,Masculino,15,1.55,38,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+33234,Feminino,29,1.82,89,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+1766,Feminino,36,1.83,80,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+51213,Masculino,28,1.86,83,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+78156,Feminino,41,1.74,82,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+9531,Masculino,19,1.5,39,Azul,Preto,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+44996,Masculino,26,1.89,88,Verde,Loiro,Esfaqueamento,Rua,Parda,Classe Alta,Desconhecido
+35312,Feminino,48,1.84,83,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+27184,Feminino,37,1.54,63,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+16901,Masculino,41,1.74,60,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+29429,Masculino,36,1.5,39,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+79089,Feminino,26,1.54,79,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+77607,Feminino,53,1.58,41,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+6025,Feminino,22,1.52,38,Azul,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+77389,Feminino,57,1.85,74,Azul,Preto,Esfaqueamento,Casa,Parda,Classe Baixa,Desconhecido
+90672,Masculino,39,1.6,59,Castanho,Preto,Envenenamento,Casa,Branca,Classe Média,Coringon de le pinheirinho Silva
+46416,Feminino,26,1.72,77,Azul,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+95047,Feminino,46,1.69,61,Castanho,Preto,Envenenamento,Casa,Branca,Classe Média,Coringon de le pinheirinho Silva
+89765,Feminino,23,1.83,77,Verde,Loiro,Envenenamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+41055,Feminino,38,1.46,61,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+26865,Feminino,24,1.84,82,Verde,Ruivo,Estrangulamento,Trabalho,Parda,Classe Alta,Roberto Chimarildo Tomáz
+57070,Feminino,13,1.74,80,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+93575,Feminino,41,1.66,48,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+2830,Feminino,24,1.41,83,Castanho,Preto,Contusão,Rua,Parda,Classe Alta,Desconhecido
+43331,Masculino,18,1.56,43,Verde,Loiro,Envenenamento,Rua,Branca,Classe Média,ElBigodon Camacho
+19269,Masculino,44,1.7,63,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+12062,Feminino,32,1.76,83,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+45327,Masculino,39,1.7,52,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+18089,Feminino,42,1.71,79,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+14953,Feminino,60,1.82,80,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+52619,Masculino,12,1.52,37,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Baixa,ElBigodon Camacho
+94771,Feminino,32,1.8,80,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+99478,Masculino,17,1.47,33,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+37269,Feminino,43,1.48,62,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+14119,Masculino,19,1.54,47,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+39257,Feminino,38,1.64,58,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+89820,Feminino,17,1.49,43,Azul,Ruivo,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+10693,Masculino,16,1.52,41,Verde,Ruivo,Esfaqueamento,Rua,Branca,Classe Baixa,ElBigodon Camacho
+60578,Feminino,29,1.83,52,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+58025,Feminino,49,1.76,80,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+51378,Feminino,36,1.78,81,Verde,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+2812,Feminino,26,1.77,31,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+88614,Masculino,41,1.74,57,Azul,Ruivo,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+94771,Feminino,32,1.8,80,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+41647,Feminino,11,1.57,42,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+70384,Masculino,21,1.5,43,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+54526,Masculino,15,1.53,42,Azul,Preto,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+17905,Feminino,17,1.85,78,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+93119,Feminino,25,1.79,79,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+98789,Feminino,58,1.81,77,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+45532,Feminino,25,1.83,76,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Média,Roberto Chimarildo Tomáz
+43332,Masculino,58,1.46,70,Azul,Preto,Contusão,Trabalho,Negra,Classe Baixa,Desconhecido
+62886,Feminino,18,1.67,78,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Média,Desconhecido
+78156,Feminino,41,1.74,82,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+5557,Feminino,40,1.72,37,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+28689,Masculino,13,1.67,61,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+689,Feminino,28,1.83,73,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+77988,Masculino,18,1.46,37,Azul,Ruivo,Envenenamento,Rua,Branca,Classe Média,ElBigodon Camacho
+68036,Masculino,18,1.57,74,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+26279,Masculino,39,1.89,58,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+16633,Feminino,16,1.46,62,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+17795,Feminino,43,1.66,63,Castanho,Loiro,Envenenamento,Casa,Branca,Classe Média,Coringon de le pinheirinho Silva
+60229,Feminino,15,1.48,72,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+7038,Feminino,23,1.75,79,Azul,Ruivo,Estrangulamento,Rua,Branca,Classe Alta,Roberto Chimarildo Tomáz
+44020,Feminino,49,1.54,42,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+62311,Feminino,46,1.67,59,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+87926,Feminino,39,1.68,60,Azul,Loiro,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+8276,Masculino,17,1.46,44,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+64762,Feminino,25,1.75,55,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+22284,Feminino,25,1.84,69,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+19269,Masculino,44,1.7,63,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+41409,Feminino,29,1.85,78,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Baixa,Roberto Chimarildo Tomáz
+86297,Feminino,21,1.51,39,Azul,Loiro,Estrangulamento,Rua,Branca,Classe Média,ElBigodon Camacho
+51278,Feminino,24,1.82,40,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+38334,Feminino,24,1.73,80,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+31841,Feminino,25,1.76,83,Azul,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+94389,Feminino,24,1.67,78,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+81415,Masculino,38,1.69,60,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+77882,Feminino,26,1.82,90,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+43303,Feminino,32,1.8,80,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+87922,Feminino,21,1.49,83,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+71287,Feminino,58,1.86,81,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+99998,Feminino,56,1.68,38,Azul,Ruivo,Envenenamento,Casa,Negra,Classe Média,Desconhecido
+85021,Masculino,19,1.64,60,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+1188,Masculino,37,1.67,67,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+18529,Feminino,20,1.51,35,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+89603,Masculino,45,1.64,59,Castanho,Preto,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+98481,Masculino,20,1.51,65,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+23512,Feminino,32,1.77,83,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+40705,Feminino,19,1.58,49,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+34131,Feminino,42,1.74,63,Castanho,Preto,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+45164,Feminino,18,1.52,46,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Baixa,ElBigodon Camacho
+1188,Masculino,37,1.67,67,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+52907,Feminino,45,1.7,62,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+16633,Feminino,16,1.46,62,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+96690,Feminino,29,1.82,57,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+87095,Feminino,24,1.82,80,Castanho,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+22130,Masculino,17,1.58,33,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+83858,Masculino,19,1.56,39,Verde,Ruivo,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+20890,Masculino,33,1.72,60,Castanho,Preto,Envenenamento,Casa,Parda,Classe Baixa,Coringon de le pinheirinho Silva
+73497,Feminino,42,1.73,60,Castanho,Preto,Estrangulamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+84793,Masculino,15,1.52,39,Azul,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+67422,Feminino,17,1.88,86,Azul,Ruivo,Esfaqueamento,Rua,Negra,Classe Média,Desconhecido
+14599,Feminino,41,1.71,34,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+34079,Feminino,41,1.81,59,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+52619,Masculino,12,1.52,37,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Baixa,ElBigodon Camacho
+75814,Feminino,19,1.64,57,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+96427,Feminino,25,1.79,47,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+1246,Feminino,17,1.45,38,Azul,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+34507,Feminino,25,1.75,54,Castanho,Preto,Contusão,Trabalho,Negra,Classe Alta,Desconhecido
+38773,Feminino,42,1.61,57,Azul,Loiro,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+28689,Masculino,13,1.67,61,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+22645,Feminino,22,1.84,83,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+17900,Masculino,12,1.67,63,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+87940,Masculino,37,1.79,57,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+88219,Feminino,19,1.5,42,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+3609,Masculino,42,1.48,62,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+48187,Masculino,43,1.66,67,Verde,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+5056,Feminino,26,1.7,79,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+69157,Feminino,24,1.81,63,Verde,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+77916,Feminino,24,1.79,80,Verde,Loiro,Estrangulamento,Rua,Negra,Classe Alta,Roberto Chimarildo Tomáz
+40457,Masculino,43,1.66,45,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+69079,Feminino,21,1.43,42,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+61230,Masculino,42,1.62,62,Azul,Loiro,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+31797,Feminino,26,1.8,73,Verde,Preto,Contusão,Rua,Parda,Classe Alta,Desconhecido
+23207,Feminino,37,1.51,61,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+75300,Feminino,28,1.75,78,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Média,Roberto Chimarildo Tomáz
+87238,Feminino,17,1.78,81,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+59314,Masculino,11,1.43,54,Verde,Loiro,Envenenamento,Trabalho,Branca,Classe Alta,Desconhecido
+88533,Masculino,43,1.74,63,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+26865,Feminino,24,1.84,82,Verde,Ruivo,Estrangulamento,Trabalho,Parda,Classe Alta,Roberto Chimarildo Tomáz
+34870,Feminino,24,1.8,77,Azul,Ruivo,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+38252,Feminino,13,1.75,82,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+80048,Masculino,15,1.47,38,Castanho,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+66110,Feminino,42,1.66,32,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+20691,Feminino,18,1.58,51,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+83720,Feminino,24,1.84,49,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+59957,Masculino,39,1.64,57,Castanho,Ruivo,Esfaqueamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+87922,Feminino,21,1.49,83,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+38109,Masculino,21,1.7,40,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+31841,Feminino,25,1.76,83,Azul,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+25085,Feminino,12,1.74,82,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+96335,Feminino,24,1.83,83,Azul,Preto,Estrangulamento,Casa,Parda,Classe Média,Roberto Chimarildo Tomáz
+21348,Feminino,18,1.49,48,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+82094,Masculino,16,1.5,37,Azul,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+65030,Feminino,25,1.86,89,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+89684,Feminino,13,1.8,77,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+84528,Feminino,27,1.81,78,Verde,Loiro,Estrangulamento,Casa,Branca,Classe Baixa,Roberto Chimarildo Tomáz
+99478,Masculino,17,1.47,33,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+29429,Masculino,36,1.5,39,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+67030,Feminino,26,1.78,53,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+28447,Feminino,16,1.53,90,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+68868,Feminino,39,1.66,46,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+64593,Feminino,17,1.77,37,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+7170,Feminino,14,1.58,38,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+2748,Feminino,29,1.84,81,Verde,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+67664,Masculino,16,1.48,70,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+36987,Feminino,48,1.62,63,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+33634,Feminino,28,1.77,59,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+77988,Masculino,18,1.46,37,Azul,Ruivo,Envenenamento,Rua,Branca,Classe Média,ElBigodon Camacho
+40905,Feminino,38,1.69,59,Azul,Preto,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+59957,Masculino,39,1.64,57,Castanho,Ruivo,Esfaqueamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+68036,Masculino,18,1.57,74,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+48942,Feminino,26,1.43,69,Castanho,Preto,Estrangulamento,Trabalho,Branca,Classe Alta,Desconhecido
+19822,Masculino,18,1.46,45,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+56979,Masculino,19,1.55,55,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+12971,Feminino,28,1.86,49,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+20691,Feminino,18,1.58,51,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+70510,Feminino,29,1.61,62,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+22130,Masculino,17,1.58,33,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+909,Masculino,41,1.77,61,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+67310,Feminino,38,1.78,80,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+75600,Masculino,32,1.89,88,Castanho,Preto,Envenenamento,Casa,Branca,Classe Alta,Desconhecido
+24218,Feminino,35,1.78,78,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+78227,Masculino,43,1.67,66,Castanho,Preto,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+3609,Masculino,42,1.48,62,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+89820,Feminino,17,1.49,43,Azul,Ruivo,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+80921,Masculino,60,1.58,31,Verde,Ruivo,Contusão,Casa,Branca,Classe Alta,Desconhecido
+74537,Feminino,42,1.61,71,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+21609,Feminino,39,1.63,63,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+69662,Feminino,26,1.75,79,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Média,Roberto Chimarildo Tomáz
+48003,Feminino,19,1.77,83,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+40457,Masculino,43,1.66,45,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+42063,Feminino,14,1.44,40,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+87319,Masculino,35,1.72,63,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+71950,Feminino,25,1.78,79,Verde,Preto,Envenenamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+77165,Feminino,19,1.46,43,Azul,Preto,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+63436,Masculino,15,1.55,38,Castanho,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+57354,Feminino,23,1.81,80,Castanho,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+8276,Masculino,17,1.46,44,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+90898,Masculino,25,1.8,83,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+93396,Masculino,27,1.84,80,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+77165,Feminino,19,1.46,43,Azul,Preto,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+5557,Feminino,40,1.72,37,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+22645,Feminino,22,1.84,83,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+63911,Masculino,46,1.63,57,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+92203,Masculino,15,1.48,45,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+84054,Feminino,27,1.74,62,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+98774,Feminino,21,1.68,37,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+79181,Feminino,19,1.85,78,Azul,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+54350,Feminino,27,1.82,77,Verde,Loiro,Esfaqueamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+88237,Feminino,19,1.76,78,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+67030,Feminino,26,1.78,53,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+92215,Feminino,16,1.82,79,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+29,Masculino,41,1.71,54,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+67664,Masculino,16,1.48,70,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+75603,Masculino,28,1.64,62,Azul,Loiro,Estrangulamento,Rua,Negra,Classe Média,Desconhecido
+36166,Feminino,23,1.82,51,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+45164,Feminino,18,1.52,46,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Baixa,ElBigodon Camacho
+7521,Feminino,40,1.7,58,Castanho,Ruivo,Envenenamento,Trabalho,Parda,Classe Média,Coringon de le pinheirinho Silva
+80705,Masculino,30,1.52,43,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+96502,Feminino,15,1.46,77,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+26279,Masculino,39,1.89,58,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+8530,Masculino,40,1.84,57,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+83858,Masculino,19,1.56,39,Verde,Ruivo,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+50297,Masculino,40,1.74,58,Castanho,Preto,Envenenamento,Casa,Negra,Classe Baixa,Coringon de le pinheirinho Silva
+81580,Masculino,43,1.47,41,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+59264,Feminino,51,1.73,60,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+75923,Feminino,26,1.81,53,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+81267,Feminino,19,1.47,46,Azul,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+6025,Feminino,22,1.52,38,Azul,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+96687,Masculino,37,1.73,90,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+41994,Feminino,19,1.57,39,Azul,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+7451,Feminino,24,1.79,79,Azul,Preto,Estrangulamento,Casa,Branca,Classe Média,Roberto Chimarildo Tomáz
+41338,Masculino,36,1.75,72,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Média,Desconhecido
+92620,Feminino,19,1.51,43,Verde,Preto,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+85021,Masculino,19,1.64,60,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+66098,Masculino,32,1.58,74,Azul,Ruivo,Envenenamento,Rua,Parda,Classe Média,Desconhecido
+78849,Feminino,24,1.64,77,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+3219,Feminino,25,1.75,78,Castanho,Ruivo,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+16571,Masculino,15,1.51,56,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+96335,Feminino,24,1.83,83,Azul,Preto,Estrangulamento,Casa,Parda,Classe Média,Roberto Chimarildo Tomáz
+91734,Feminino,13,1.73,90,Castanho,Ruivo,Esfaqueamento,Trabalho,Branca,Classe Média,Desconhecido
+1478,Masculino,19,1.46,41,Azul,Ruivo,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+9242,Feminino,24,1.88,85,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+41215,Feminino,42,1.73,30,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+48093,Masculino,18,1.47,42,Verde,Loiro,Estrangulamento,Rua,Branca,Classe Média,ElBigodon Camacho
+12560,Masculino,19,1.64,39,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+7424,Masculino,40,1.61,60,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+99125,Masculino,16,1.82,38,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+72600,Feminino,21,1.54,49,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+12560,Masculino,19,1.64,39,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+52735,Feminino,20,1.49,41,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+41676,Feminino,28,1.83,87,Azul,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+19100,Feminino,20,1.5,45,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+76552,Feminino,23,1.88,79,Castanho,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+81445,Masculino,35,1.65,63,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+54675,Feminino,26,1.72,76,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+8105,Feminino,30,1.45,51,Azul,Loiro,Estrangulamento,Casa,Negra,Classe Baixa,Desconhecido
+29828,Feminino,42,1.45,47,Verde,Ruivo,Contusão,Rua,Parda,Classe Média,Desconhecido
+5675,Feminino,34,1.69,65,Azul,Loiro,Estrangulamento,Rua,Negra,Classe Baixa,Desconhecido
+86058,Masculino,39,1.71,31,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+87238,Feminino,17,1.78,81,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+6245,Feminino,15,1.45,41,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+30918,Feminino,15,1.85,78,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+48589,Feminino,37,1.72,63,Verde,Preto,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+71956,Feminino,20,1.56,36,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+82641,Feminino,19,1.57,37,Azul,Ruivo,Contusão,Rua,Branca,Classe Média,ElBigodon Camacho
+25504,Feminino,39,1.67,53,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+23049,Masculino,46,1.71,60,Verde,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+2204,Feminino,45,1.66,63,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+23527,Feminino,22,1.77,80,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+35435,Masculino,17,1.74,37,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+22858,Feminino,28,1.8,82,Verde,Preto,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+81030,Masculino,14,1.62,59,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+59091,Masculino,41,1.69,60,Castanho,Loiro,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+46280,Feminino,24,1.81,81,Verde,Loiro,Esfaqueamento,Rua,Parda,Classe Baixa,Desconhecido
+18551,Feminino,19,1.48,51,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+24263,Masculino,44,1.64,61,Castanho,Preto,Envenenamento,Casa,Parda,Classe Baixa,Coringon de le pinheirinho Silva
+1609,Feminino,42,1.83,77,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+83720,Feminino,24,1.84,49,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+50297,Masculino,40,1.74,58,Castanho,Preto,Envenenamento,Casa,Negra,Classe Baixa,Coringon de le pinheirinho Silva
+44884,Masculino,43,1.55,62,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+39150,Feminino,37,1.61,58,Castanho,Ruivo,Envenenamento,Trabalho,Parda,Classe Média,Coringon de le pinheirinho Silva
+43666,Feminino,42,1.61,60,Castanho,Loiro,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+47113,Feminino,14,1.78,78,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+50758,Masculino,56,1.58,82,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,Desconhecido
+82061,Masculino,23,1.69,59,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+82000,Feminino,45,1.48,49,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Média,Desconhecido
+51352,Feminino,57,1.75,80,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+78227,Masculino,43,1.67,66,Castanho,Preto,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+23207,Feminino,37,1.51,61,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+77854,Masculino,17,1.53,43,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+18551,Feminino,19,1.48,51,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+47591,Feminino,28,1.89,83,Castanho,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+61633,Masculino,57,1.7,85,Castanho,Loiro,Contusão,Trabalho,Branca,Classe Alta,Desconhecido
+49974,Feminino,52,1.77,83,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+70451,Feminino,43,1.53,42,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+88614,Masculino,41,1.74,57,Azul,Ruivo,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+93115,Masculino,21,1.56,45,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+43018,Masculino,48,1.47,43,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+421,Masculino,41,1.8,59,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+95187,Feminino,32,1.74,86,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+38083,Feminino,26,1.75,82,Azul,Preto,Estrangulamento,Casa,Parda,Classe Baixa,Roberto Chimarildo Tomáz
+72108,Masculino,37,1.7,62,Verde,Preto,Estrangulamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+8903,Masculino,17,1.49,84,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+50865,Feminino,19,1.55,38,Castanho,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+41055,Feminino,38,1.46,61,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+34082,Masculino,39,1.67,79,Verde,Preto,Envenenamento,Trabalho,Parda,Classe Média,Desconhecido
+41071,Masculino,42,1.74,40,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+16901,Masculino,41,1.74,60,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+53451,Masculino,40,1.63,60,Azul,Preto,Envenenamento,Rua,Parda,Classe Média,Coringon de le pinheirinho Silva
+7424,Masculino,40,1.61,60,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+38773,Feminino,42,1.61,57,Azul,Loiro,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+70435,Feminino,25,1.82,48,Azul,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+95542,Feminino,18,1.52,41,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+69053,Feminino,25,1.8,40,Verde,Preto,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+46304,Feminino,40,1.58,62,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+48090,Feminino,42,1.74,32,Castanho,Loiro,Esfaqueamento,Casa,Branca,Classe Alta,Desconhecido
+54550,Feminino,40,1.74,63,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+47523,Feminino,18,1.69,58,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+25190,Masculino,38,1.67,58,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+49974,Feminino,52,1.77,83,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+34995,Feminino,12,1.54,41,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+84955,Masculino,16,1.58,37,Castanho,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+64973,Feminino,25,1.88,56,Castanho,Loiro,Envenenamento,Casa,Negra,Classe Alta,Desconhecido
+21609,Feminino,39,1.63,63,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+45499,Feminino,48,1.73,62,Verde,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+37311,Feminino,29,1.79,81,Castanho,Ruivo,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+20886,Masculino,43,1.74,87,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+63745,Feminino,29,1.83,83,Azul,Preto,Estrangulamento,Casa,Branca,Classe Baixa,Roberto Chimarildo Tomáz
+65490,Feminino,29,1.77,90,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+23720,Masculino,17,1.42,41,Castanho,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+3512,Feminino,21,1.62,38,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+95187,Feminino,32,1.74,86,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+15233,Feminino,29,1.76,53,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+80190,Feminino,20,1.84,80,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+35138,Feminino,13,1.85,80,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+89603,Masculino,45,1.64,59,Castanho,Preto,Envenenamento,Casa,Negra,Classe Média,Coringon de le pinheirinho Silva
+47159,Feminino,38,1.71,58,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+29075,Feminino,54,1.85,77,Azul,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+77607,Feminino,53,1.58,41,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+37427,Masculino,19,1.67,39,Azul,Ruivo,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+14953,Feminino,60,1.82,80,Verde,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+71091,Feminino,48,1.65,80,Verde,Loiro,Envenenamento,Rua,Parda,Classe Média,Desconhecido
+69157,Feminino,24,1.81,63,Verde,Preto,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+29102,Feminino,59,1.48,49,Castanho,Loiro,Estrangulamento,Trabalho,Parda,Classe Alta,Desconhecido
+421,Masculino,41,1.8,59,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+56209,Feminino,52,1.48,81,Azul,Loiro,Estrangulamento,Trabalho,Branca,Classe Alta,Desconhecido
+31371,Masculino,48,1.45,76,Castanho,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Desconhecido
+35764,Masculino,10,1.48,39,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+74039,Feminino,57,1.85,82,Verde,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+87061,Feminino,23,1.59,77,Verde,Loiro,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+54350,Feminino,27,1.82,77,Verde,Loiro,Esfaqueamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+53108,Masculino,39,1.6,84,Azul,Preto,Envenenamento,Rua,Negra,Classe Média,Desconhecido
+39150,Feminino,37,1.61,58,Castanho,Ruivo,Envenenamento,Trabalho,Parda,Classe Média,Coringon de le pinheirinho Silva
+95047,Feminino,46,1.69,61,Castanho,Preto,Envenenamento,Casa,Branca,Classe Média,Coringon de le pinheirinho Silva
+83272,Masculino,41,1.64,60,Castanho,Preto,Esfaqueamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+43944,Feminino,18,1.55,55,Azul,Loiro,Contusão,Casa,Negra,Classe Alta,Desconhecido
+25190,Masculino,38,1.67,58,Verde,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+95026,Masculino,42,1.63,57,Castanho,Preto,Contusão,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+48923,Feminino,18,1.51,41,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+96707,Feminino,23,1.74,87,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+95026,Masculino,42,1.63,57,Castanho,Preto,Contusão,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+46054,Masculino,21,1.61,37,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+3512,Feminino,21,1.62,38,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+87940,Masculino,37,1.79,57,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+48059,Masculino,18,1.54,41,Azul,Preto,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+63109,Masculino,41,1.84,72,Castanho,Preto,Esfaqueamento,Casa,Negra,Classe Baixa,Desconhecido
+18961,Feminino,30,1.66,60,Castanho,Ruivo,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+1766,Feminino,36,1.83,80,Verde,Preto,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+89893,Feminino,29,1.76,82,Verde,Preto,Estrangulamento,Rua,Negra,Classe Alta,Roberto Chimarildo Tomáz
+8903,Masculino,17,1.49,84,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+48573,Feminino,23,1.89,78,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+96687,Masculino,37,1.73,90,Azul,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+84955,Masculino,16,1.58,37,Castanho,Loiro,Esfaqueamento,Rua,Parda,Classe Média,ElBigodon Camacho
+59766,Feminino,38,1.62,58,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+19100,Feminino,20,1.5,45,Azul,Loiro,Esfaqueamento,Rua,Branca,Classe Alta,ElBigodon Camacho
+9308,Masculino,27,1.8,42,Castanho,Ruivo,Estrangulamento,Casa,Branca,Classe Média,Desconhecido
+85962,Masculino,18,1.48,40,Castanho,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+20890,Masculino,33,1.72,60,Castanho,Preto,Envenenamento,Casa,Parda,Classe Baixa,Coringon de le pinheirinho Silva
+49988,Masculino,23,1.74,60,Castanho,Preto,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+29589,Feminino,18,1.53,45,Castanho,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+6799,Feminino,16,1.44,43,Verde,Loiro,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+98148,Feminino,27,1.82,78,Verde,Loiro,Estrangulamento,Trabalho,Branca,Classe Alta,Roberto Chimarildo Tomáz
+64978,Feminino,37,1.66,59,Azul,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+15007,Feminino,55,1.82,82,Azul,Ruivo,Estrangulamento,Casa,Branca,Classe Alta,Roberto Chimarildo Tomáz
+58979,Masculino,10,1.88,30,Azul,Ruivo,Envenenamento,Casa,Branca,Classe Baixa,Desconhecido
+41071,Masculino,42,1.74,40,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+35701,Feminino,18,1.53,30,Azul,Preto,Esfaqueamento,Rua,Branca,Classe Média,ElBigodon Camacho
+62311,Feminino,46,1.67,59,Castanho,Preto,Envenenamento,Casa,Parda,Classe Alta,Coringon de le pinheirinho Silva
+1246,Feminino,17,1.45,38,Azul,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+56499,Feminino,23,1.84,31,Verde,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+61760,Feminino,23,1.77,82,Verde,Loiro,Estrangulamento,Rua,Parda,Classe Alta,Roberto Chimarildo Tomáz
+34870,Feminino,24,1.8,77,Azul,Ruivo,Envenenamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+50865,Feminino,19,1.55,38,Castanho,Loiro,Esfaqueamento,Rua,Negra,Classe Média,ElBigodon Camacho
+90898,Masculino,25,1.8,83,Castanho,Ruivo,Estrangulamento,Casa,Parda,Classe Alta,Roberto Chimarildo Tomáz
+63745,Feminino,29,1.83,83,Azul,Preto,Estrangulamento,Casa,Branca,Classe Baixa,Roberto Chimarildo Tomáz
+81030,Masculino,14,1.62,59,Castanho,Loiro,Envenenamento,Casa,Parda,Classe Média,Coringon de le pinheirinho Silva
+66,Feminino,30,1.86,79,Verde,Ruivo,Estrangulamento,Casa,Negra,Classe Baixa,Roberto Chimarildo Tomáz
+2812,Feminino,26,1.77,31,Castanho,Ruivo,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
+38083,Feminino,26,1.75,82,Azul,Preto,Estrangulamento,Casa,Parda,Classe Baixa,Roberto Chimarildo Tomáz
+54213,Feminino,26,1.85,70,Azul,Loiro,Esfaqueamento,Casa,Parda,Classe Média,Desconhecido
+24374,Feminino,19,1.79,78,Castanho,Loiro,Estrangulamento,Casa,Negra,Classe Alta,Roberto Chimarildo Tomáz
