@@ -1,56 +1,80 @@
-import pandas as pd
-import random
+from bibliotecas import *
 
-# Local onde o arquivo será salvo
-path_serial_killers = 'serial_killers.csv'
-path_vitimas_treino = 'vitimas_treino.csv'
-path_vitimas_teste = 'vitimas_teste.csv'
+quantidade_vitimas = 2000
+vitimas_divisao = quantidade_vitimas / (len(serial_killers) + 8)
 
-quantidade_vitimas = 100000
-
-# Dados dos serial killers
-serial_killers = {
-   'Nome': ['ElBigodon Camacho', 'Coringon de le pinheirinho Silva', 'Roberto Chimarildo Tomáz'],
-   'Sexo': ['Todos', 'Todos', 'Feminino'],
-   'Idade': [18, 40, 26],
-   'Altura': [1.52, 1.68, 1.80],
-   'Peso': [40, 60, 80],
-   'Cor do Cabelo': ['Loiro', 'Preto', 'Ruivo'],
-   'Cor dos Olhos': ['Azul', 'Castanho', 'Verde'],
-   'Raça': ['Branca', 'Parda', 'Todos'],
-   'Causa Morte': ['Esfaqueamento', 'Envenenamento', 'Estrangulamento'],  # Método de assassinato
-   'Local': ['Rua', 'Casa', 'Casa'],  # Local onde a vítima foi morta
-   'Classe Social': ['Classe Média', 'Classe Média', 'Classe Alta'],
-   'Vítimas': [0, 0, 0]
-}
-
-serial_killers_df = pd.DataFrame(serial_killers)
+def variacao(variacao_min, variacao_max):
+   variacao = rd.uniform(variacao_min, variacao_max)
+   
+   if rd.random() < 0.5:
+      variacao *= -1
+   
+   return variacao
+      
+def gerar_vitima_preferecial(df, quantidade):
+   for killer in serial_killers:
+      for i in range(int(quantidade * rd.uniform(0.8, 1.2))):
+         vitima = {}
+         
+         for caracteristica in features_all:
+            if caracteristica in caracteristicas_categorias:
+               if killer[caracteristica] != 'Todos' and rd.random() < 0.8:
+                  vitima[caracteristica] = killer[caracteristica]
+               
+               else:
+                  vitima[caracteristica] = rd.choice(caracteristicas_categorias[caracteristica])
+                  
+            elif caracteristica in caracteristicas_numericas:
+               if rd.random() < 0.8:
+                  vitima[caracteristica] = round(killer[caracteristica] + variacao(0, caracteristicas_numericas[caracteristica][3]), 2)
+               
+               else:
+                  vitima[caracteristica] = round(rd.uniform(caracteristicas_numericas[caracteristica][0], caracteristicas_numericas[caracteristica][1]), 2)
+            
+         vitima['Serial Killer'] = killer['Nome']
+         killer['Vítimas'] += 1
+         df.append(vitima)
 
 # Função para gerar vítimas aleatórias
-def gerar_vitima():
-   sexo = random.choice(['Masculino', 'Feminino'])  # Sexo da vítima
-   idade = random.randint(10, 60)  # Idades entre 18 e 50
-   altura = round(random.uniform(1.40, 1.90), 2)  # Altura entre 1.50 e 1.90
-   peso = random.randint(30, 90)  # Peso entre 30 e 90
-   cor_dos_olhos = random.choice(['Azul', 'Castanho', 'Verde'])  # Cor dos olhos
-   cor_do_cabelo = random.choice(['Loiro', 'Preto', 'Ruivo'])  # Cor do cabelo
-   raça = random.choice(['Branca', 'Parda', 'Negra']) # Raça da vítima
-   causa_morte = random.choice(['Esfaqueamento', 'Envenenamento', 'Estrangulamento', 'Esfaqueamento', 'Envenenamento', 'Estrangulamento', 'Contusão'])  # Método de assassinato
-   local = random.choice(['Rua', 'Rua', 'Casa', 'Casa', 'Trabalho'])  # Local onde a vítima foi morta
-   classe_social = random.choice(['Classe Média', 'Classe Média', 'Classe Alta', 'Classe Alta', 'Classe Baixa'])  # Classe social da vítima
-   
-   return {'Sexo': sexo, 'Idade': idade, 'Altura': altura, 'Peso': peso, 'Cor dos Olhos': cor_dos_olhos, 'Cor do Cabelo': cor_do_cabelo, 'Causa Morte': causa_morte, 'Local': local, 'Raça': raça, 'Classe Social': classe_social}
+def gerar_vitima_aleatoria(df, quantidade):
+   for i in range(int(quantidade * rd.uniform(0.8, 1.2))):
+      vitima = {}
+      
+      for caracteristica in features_all:
+         if caracteristica in caracteristicas_categorias:
+            vitima[caracteristica] = rd.choice(caracteristicas_categorias[caracteristica])
+            
+         elif caracteristica in caracteristicas_numericas:
+            vitima[caracteristica] = round(rd.uniform(caracteristicas_numericas[caracteristica][0], caracteristicas_numericas[caracteristica][1]), 2)
+      
+      vitima['Serial Killer'] = 'Desconhecido'
+      df.append(vitima)
 
 # Gerando vítimas
-vitimas_treino = [gerar_vitima() for id in range(quantidade_vitimas)]
+vitimas_treino = []
+gerar_vitima_aleatoria(vitimas_treino, 8 * vitimas_divisao)
+gerar_vitima_preferecial(vitimas_treino, vitimas_divisao)
 vitimas_treino_df = pd.DataFrame(vitimas_treino)
 
-vitimas_teste = [gerar_vitima() for id in range(quantidade_vitimas)]
-vitimas_teste_df = pd.DataFrame(vitimas_teste)
+vitimas_teste = []
+gerar_vitima_aleatoria(vitimas_teste, 8 * vitimas_divisao)
+gerar_vitima_preferecial(vitimas_teste, vitimas_divisao)
+vitimas_teste_resultados_df = pd.DataFrame(vitimas_teste)
+
+# Embaralhando a ordem das vítimas
+vitimas_treino_df = vitimas_treino_df.sample(frac=1)
+vitimas_teste_resultados_df = vitimas_teste_resultados_df.sample(frac=1)
+
+# Prepara o teste | Remove a coluna 'Serial Killer'
+vitimas_teste_df = vitimas_teste_resultados_df.drop('Serial Killer', axis=1)
+
+# Gerando serial killers
+serial_killers_df = pd.DataFrame(serial_killers)
 
 # Salvando os dados em arquivos CSV
 serial_killers_df.to_csv(path_serial_killers, index=True)
 vitimas_treino_df.to_csv(path_vitimas_treino, index=True)
 vitimas_teste_df.to_csv(path_vitimas_teste, index=True)
+vitimas_teste_resultados_df.to_csv(path_vitimas_teste_resultados, index=True)
 
 print('Arquivos gerados com sucesso!')
