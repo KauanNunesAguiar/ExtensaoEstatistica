@@ -6,7 +6,7 @@ from conferencia_resultados import conferir_resultados
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from conferencia_resultados import results
-from conferencia_resultados import prepara_resultados
+from conferencia_resultados import prepara_resultados2
 
 app = FastAPI()
 
@@ -79,7 +79,7 @@ async def Conferir():
 
 @app.get("/relacao")
 async def Relacao():
-      x=prepara_resultados
+      x=prepara_resultados2()
       return x
 
 
