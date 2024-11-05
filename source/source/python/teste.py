@@ -58,8 +58,7 @@ def testar_modelo(path_csv = path_vitimas_teste):
       vitimas_teste_df['Serial Killer Previsto'] = vitimas_teste_df.apply(lambda x: identificar_serial_killer(x, serial_killers_df, 1), axis=1)
    else:
       vitimas_teste_df['Serial Killer Previsto'] = vitimas_teste_df.apply(lambda x: identificar_serial_killer(x, serial_killers_df), axis=1)
-       
-   # Salva os resultados em um CSV
+   
    vitimas_teste_df.to_csv(path_csv, index=True)
    print("Modelo testado com sucesso!")
    

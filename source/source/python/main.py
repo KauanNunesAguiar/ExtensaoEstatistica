@@ -21,8 +21,10 @@ def formatar_forms():
                            "Entre as seguintes opções, onde você passa a maior parte do dia?": "Local Morte",
                            "Qual sua classe social?": "Classe Social"})
    
-   # Adiciona coluna "Causa Morte" com valor "Desconhecido"
-   df["Causa Morte"] = "Desconhecido"
+   # Adiciona colunas faltantes com valor "Desconhecido"
+   for coluna in features_all:
+      if coluna not in df.columns:
+         df[coluna] = "Desconhecido"
    
    # Salva o arquivo formatado
    df.to_csv("forms.csv", index=False)

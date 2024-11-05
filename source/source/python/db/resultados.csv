@@ -1,0 +1,6 @@
+True Positives,True Negatives,False Positives,False Negatives,Acuracia,Precisao,Recall,F1 Score
+<<<<<<< HEAD:source/python/db/resultados.csv
+548,1426,51,70,94.22,91.49,88.67,90.06
+=======
+458,1217,30,65,94.63,93.85,87.57,90.6
+>>>>>>> 80bfe9f17dd51428577b5f28d02c2aef74450bbf:source/source/python/db/resultados.csv
