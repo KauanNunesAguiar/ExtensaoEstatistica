@@ -84,6 +84,18 @@ def prepara_resultados():
    
    # Renomeia as colunas
    df_resultados.columns = ['Real', 'Previsto']
+
+   return df_resultados
+
+def prepara_resultados2():
+   # Carrega os dados
+   df_teste = pd.read_csv(path_vitimas_teste)
+   
+   # Cria um único dataframe somente com as colunas 'Serial Killer Real' e 'Serial Killer Previsto'
+   df_resultados = df_teste[['Serial Killer Real', 'Serial Killer Previsto']]
+   
+   # Renomeia as colunas
+   df_resultados.columns = ['Real', 'Previsto']
    resultados_dict = df_resultados.to_dict(orient='index')
 
    return resultados_dict
