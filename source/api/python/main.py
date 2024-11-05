@@ -6,6 +6,7 @@ from conferencia_resultados import conferir_resultados
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from conferencia_resultados import results
+from conferencia_resultados import prepara_resultados
 
 app = FastAPI()
 
@@ -75,6 +76,12 @@ async def TstModelForms():
 async def Conferir():
       x= results()
       return{"Resultados": x}
+
+@app.get("/relacao")
+async def Relacao():
+      x=prepara_resultados
+      return x
+
 
 if __name__ == "__main__":
     import uvicorn

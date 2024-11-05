@@ -84,8 +84,9 @@ def prepara_resultados():
    
    # Renomeia as colunas
    df_resultados.columns = ['Real', 'Previsto']
-   
-   return df_resultados
+   resultados_dict = df_resultados.to_dict(orient='index')
+
+   return resultados_dict
 
 def results():
    resultados_dicionario = conferir_resultados()

@@ -161,14 +161,7 @@ def gerar_dicionario_dados_comparacao(df, serial_killers):
     
     return dados_comparacao
 
-  
-def Treino(graficos):
-   analise_geral(df_treino, graficos)
-   comparar_serial_killers()
-   
-   serial_killers_df = pd.DataFrame(serial_killers_dic)
-   serial_killers_df.to_csv(path_serial_killers_previstos, index=True)
-   print('Modelo treinado com sucesso!')
+
   
 def Treino():
     resultado_dicionario = gerar_dicionario_dados_comparacao(df_treino, serial_killers)
