@@ -4,11 +4,19 @@ from treino import Treino
 from teste import testar_modelo
 from conferencia_resultados import conferir_resultados
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from conferencia_resultados import results
 from conferencia_resultados import prepara_resultados
 
 app = FastAPI()
 
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 def formatar_forms():
    df = pd.read_csv("forms.csv")
