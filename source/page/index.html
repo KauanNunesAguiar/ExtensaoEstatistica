@@ -23,6 +23,26 @@
     <body>
         <div class="container mt-4">
             <h1>Projeto de Extensão: Estatística aplicada à criminologia</h1>
+            <div class="mt-4">
+                <a
+                    class="d-block link-light"
+                    href="#"
+                    onclick="abrirModalGraficos('ElBigodon Camacho')"
+                    >ElBigodon Camacho</a
+                >
+                <a
+                    class="d-block link-light"
+                    href="#"
+                    onclick="abrirModalGraficos('Coringon de le pinheirinho Silva')"
+                    >Coringon de le pinheirinho Silva</a
+                >
+                <a
+                    class="d-block link-light"
+                    href="#"
+                    onclick="abrirModalGraficos('Roberto Chimarildo Tomáz')"
+                    >Roberto Chimarildo Tomáz</a
+                >
+            </div>
             <div id="divConferenciaResultados" class="mt-4">
                 <h2>Conferência dos Resultados</h2>
                 <table
@@ -83,6 +103,25 @@
                     </thead>
                     <tbody class="table-group-divider"></tbody>
                 </table>
+            </div>
+        </div>
+
+        <div id="modalGraficos" class="modal modal-lg" tabindex="-1">
+            <div
+                class="modal-dialog modal-dialog-centered modal-dialog-scrollable"
+            >
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title"></h5>
+                        <button
+                            type="button"
+                            class="btn-close"
+                            data-bs-dismiss="modal"
+                            aria-label="Close"
+                        ></button>
+                    </div>
+                    <div class="modal-body"></div>
+                </div>
             </div>
         </div>
 
@@ -157,6 +196,7 @@
                 for (serialKiller in res) {
                     tdNomePrevisto = document.createElement('td');
                     tdNomeEsperado = document.createElement('td');
+
                     tdNomePrevisto.textContent = serialKiller;
                     tdNomeEsperado.textContent = serialKiller;
 
@@ -184,6 +224,45 @@
                     tbodyResultadosPrevisto.append(trPrevisto);
                     tbodyResultadosEsperado.append(trEsperado);
                 }
+            }
+
+            function abrirModalGraficos(serialKiller) {
+                modalBody = document.querySelector(
+                    '#modalGraficos .modal-body'
+                );
+                modalTitle = document.querySelector(
+                    '#modalGraficos .modal-title'
+                );
+
+                modalTitle.textContent = 'Gráficos para ' + serialKiller;
+
+                $(modalBody).empty();
+
+                src = './graficos/' + serialKiller;
+                nomeImgs = [
+                    'distribuicao_Altura.png',
+                    'distribuicao_Causa Morte.png',
+                    'distribuicao_Classe Social.png',
+                    'distribuicao_Cor do Cabelo.png',
+                    'distribuicao_Cor dos Olhos.png',
+                    'distribuicao_Idade.png',
+                    'distribuicao_Local Morte.png',
+                    'distribuicao_Peso.png',
+                    'distribuicao_Raça.png',
+                    'distribuicao_Sexo.png',
+                ];
+
+                for (i = 0; i < nomeImgs.length; i++) {
+                    img = document.createElement('img');
+
+                    img.classList.add('img-fluid');
+
+                    img.setAttribute('src', src + '/' + nomeImgs[i]);
+
+                    modalBody.append(img);
+                }
+
+                $('#modalGraficos').modal('show');
             }
         </script>
     </body>
