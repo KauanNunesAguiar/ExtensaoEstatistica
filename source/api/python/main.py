@@ -75,7 +75,7 @@ async def TstModelForms():
 @app.get("/conferir")
 async def Conferir():
       x= results()
-      return{x}
+      return x
 
 @app.get("/relacao")
 async def Relacao():
